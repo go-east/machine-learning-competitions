@@ -1,0 +1,75 @@
+ {
+     "data": [
+
+        {
+            "name": "Datacrunch Prediction Competition",
+            "url": "https://crunchdao.com/",
+            "type": "✅ Supervised Learning",
+            "tags": ["supervised", "science", "regression", "measurable", "science"],
+            "launched": "1 Jan 2021",
+            "registration-deadline": "Evergreen",
+            "deadline": "NA",
+            "prize": "$120000y",
+            "platform": "Crunchdao",
+            "sponsor": "Datacrunch",
+            "pro":"Excellent for passive income. Rewards based on the accuracy of the prediction. Very large prize pool distribution (Around 100 first). Great community",
+            "con": "No potential recruitment"
+        },
+         {
+            "name": "International Quant Championship",
+            "url": "https://platform.worldquantbrain.com/iqc",
+            "type": "",
+            "tags": [],
+            "launched": "",
+            "registration-deadline": "Evergreen",
+            "deadline": "NA",
+            "prize": "$100000y",
+            "platform": "WorldQuant Brain",
+            "sponsor": "Worldquant",
+            "pro":"Potential for recruitment at WorldQuant Cash prizes Highly competitive competition",
+            "con":"Difficult to differentiate yourself in the crowd! (well you need to win)"
+        },
+         {
+            "name": "Datathons",
+            "url": "https://www.citadel.com/careers/students/datathons/",
+            "type": "",
+            "tags": [],
+            "launched": "",
+            "registration-deadline": "",
+            "deadline": "NA",
+            "prize": "",
+            "platform": "Citadel",
+            "sponsor": "Citadel",
+            "pro": "Access to real-world problems Potential for recruitment",
+            "con": "Difficult to differentiate yourself from the crowd! (well you need to win)"
+        },
+         {
+            "name": "ADIA Lab Market Prediction Competition",
+            "url": "https://crunchdao.com/live/adialab",
+            "type": "",
+            "tags": "[✅ supervised learning]",
+            "launched": "",
+            "registration-deadline": "15th August",
+            "deadline": "16th August",
+            "prize": "$100000",
+            "platform": "CrunchDAO",
+            "sponsor": "ADIA Lab",
+            "pro": "very large prize pool $100000. Compete against the best in the field!",
+            "con": "Uncertain about a potential recruitment"
+        },
+         {
+            "name": "Challenge ENS",
+            "url": "https://challengedata.ens.fr/",
+            "type": "",
+            "tags": "",
+            "launched": "",
+            "registration-deadline": "",
+            "deadline": "",
+            "prize": "0",
+            "platform": "ENS",
+            "sponsor": "",
+            "pro":"brillant researchers on the platform",
+           	"con":"for french speaking people + no prize"
+        },
+      ]
+}
