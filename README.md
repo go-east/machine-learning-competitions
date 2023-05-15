@@ -1,4 +1,4 @@
-# Financial Machine Learning Competitions Repository
+# Computer Science contests with prize money
 
 Welcome to our open-source GitHub repository! This project aims to compile information and resources about all the financial machine-learning related competitions across the globe. It is a community-driven initiative, and we're open to contributions from everyone.
 
