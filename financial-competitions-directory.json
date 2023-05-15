@@ -1,6 +1,19 @@
  {
      "data": [
-
+           {
+            "name": "ADIA Lab Market Prediction Competition",
+            "url": "https://crunchdao.com/live/adialab",
+            "type": "",
+            "tags": "[✅ supervised learning]",
+            "launched": "",
+            "registration-deadline": "15th August",
+            "deadline": "16th August",
+            "prize": "$100000",
+            "platform": "CrunchDAO",
+            "sponsor": "ADIA Lab",
+            "pro": "very large prize pool $100000. Compete against the best in the field!",
+            "con": "Uncertain about a potential recruitment"
+        },
         {
             "name": "Datacrunch Prediction Competition",
             "url": "https://crunchdao.com/",
@@ -42,20 +55,6 @@
             "sponsor": "Citadel",
             "pro": "Access to real-world problems Potential for recruitment",
             "con": "Difficult to differentiate yourself from the crowd! (well you need to win)"
-        },
-         {
-            "name": "ADIA Lab Market Prediction Competition",
-            "url": "https://crunchdao.com/live/adialab",
-            "type": "",
-            "tags": "[✅ supervised learning]",
-            "launched": "",
-            "registration-deadline": "15th August",
-            "deadline": "16th August",
-            "prize": "$100000",
-            "platform": "CrunchDAO",
-            "sponsor": "ADIA Lab",
-            "pro": "very large prize pool $100000. Compete against the best in the field!",
-            "con": "Uncertain about a potential recruitment"
         },
          {
             "name": "Challenge ENS",
