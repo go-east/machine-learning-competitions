@@ -35,3 +35,5 @@ This repository is governed by the [Contributor Covenant Code of Conduct](https:
 Happy contributing!
 
 For any questions or concerns, please open an issue or submit a pull request. Let's work together to make this repository a comprehensive resource for all financial machine learning enthusiasts!
+
+This Repo is inspired by https://mlcontests.github.io/. This one is only focusing on financial machine learning competition!
